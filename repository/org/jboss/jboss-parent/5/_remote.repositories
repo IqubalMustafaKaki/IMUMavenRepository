@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 31 11:09:30 IST 2017
+jboss-parent-5.pom>central=
+jboss-parent-5.pom>wso2-nexus=
+jboss-parent-5.pom>spring-plugin-releases=
+jboss-parent-5.pom>spring-milestone=
